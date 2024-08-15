@@ -1,5 +1,6 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 👋 Hi, I'm Madhavi!
+
+I'm a passionate Data Scientist with a keen interest in transforming data into actionable insights. My expertise lies in building robust data-driven solutions, from exploratory data analysis to advanced machine learning models. I love diving into complex datasets, discovering hidden patterns, and turning them into meaningful stories.
 
 
 ## 🌐 Socials:
