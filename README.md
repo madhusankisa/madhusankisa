@@ -16,7 +16,5 @@ I'm a passionate Data Scientist with a keen interest in transforming data into a
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=madhusankisa&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
 
-### Projects 
-![Sentiment Analysis](https://github.com/madhusankisa/SentimentAnalysis)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
