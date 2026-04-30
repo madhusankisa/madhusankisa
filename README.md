@@ -1,4 +1,4 @@
-# I'm a Data Analyst with 4+ years of experience turning complex datasets into business decisions. My work spans SQL, Python automation, and predictive modeling across insurance and logistics domains.
+## I'm a Data Analyst with 4+ years of experience turning complex datasets into business decisions. My work spans SQL, Python automation, and predictive modeling across insurance and logistics domains.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhusankisa) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@madhusankisa) 
